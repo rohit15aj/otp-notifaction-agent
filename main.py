@@ -1,5 +1,6 @@
 print("=== OTP SMART NOTIFICATION AGENT ===\n")
 
+
 notifications = []
 
 print("Enter notifications one by one.")
